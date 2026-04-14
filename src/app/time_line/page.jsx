@@ -5,7 +5,7 @@ import { friendContext } from '@/Context/ContextProvider';
 import React, { useContext } from 'react';
 
 const TimeLine = () => {
-    const { friendData } = useContext(friendContext)
+    const { friendData } = useContext(friendContext);
 
 
     return (
