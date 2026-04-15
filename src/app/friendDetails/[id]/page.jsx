@@ -16,7 +16,7 @@ const page = async ({ params }) => {
 
 
     const dataPromise = async () => {
-        const res = await fetch('/friends.json', {
+        const res = await fetch('https://keen-keeper-mu.vercel.app/friends.json', {
             cache: 'no-store'
         })
         const data = await res.json()

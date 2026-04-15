@@ -103,8 +103,8 @@
   },
   {
     "id": 8,
-    "name": "Jaki Chowdhury",
-    "picture": "/images/w4.jpeg",
+    "name": "Rana Chowdhury",
+    "picture": "/images/images.jpeg",
     "email": "emily@example.com",
     "days_since_contact": 18,
     "status": "overdue",
@@ -118,8 +118,8 @@
   },
   {
     "id": 9,
-    "name": "Tania Rahman",
-    "picture": "/images/w1.jpg",
+    "name": "Tanvir Rahman",
+    "picture": "/images/images.jpeg",
     "email": "tanvir@example.com",
     "days_since_contact": 6,
     "status": "almost due",
