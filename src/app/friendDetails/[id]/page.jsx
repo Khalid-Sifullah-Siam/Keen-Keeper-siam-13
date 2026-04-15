@@ -77,8 +77,8 @@ const page = async ({ params }) => {
                         </div>
                         <div className='text-center flex flex-col gap-1'>
                             <div className='flex items-center gap-1 justify-center py-2 px-1 bg-white rounded-md border border-gray-200 shadow-md text-gray-600'><BellDot size={18} /> <p>Snooze 2 weeks</p></div>
-                            <div className='flex items-center gap-1 justify-center py-2 px-1 bg-white rounded-md border border-gray-200 shadow-md text-gray-600'> <Archive size={18} /><p>Snooze 2 weeks</p></div>
-                            <div className='flex items-center gap-1 justify-center py-2 px-1 bg-white rounded-md border border-gray-200 text-red-600 shadow-md '><Trash2 size={18} /><p>Snooze 2 weeks</p></div>
+                            <div className='flex items-center gap-1 justify-center py-2 px-1 bg-white rounded-md border border-gray-200 shadow-md text-gray-600'> <Archive size={18} /><p>Archive</p></div>
+                            <div className='flex items-center gap-1 justify-center py-2 px-1 bg-white rounded-md border border-gray-200 text-red-600 shadow-md '><Trash2 size={18} /><p>Delete</p></div>
                         </div>
                     </div>
                 </div>

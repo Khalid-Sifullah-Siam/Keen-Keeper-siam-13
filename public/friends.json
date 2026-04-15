@@ -1,7 +1,7 @@
 [
   {
     "id": 1,
-    "name": "Arif Rahman",
+    "name": "Abir Rahman",
     "picture": "/images/71da163a5dd4fc7d29c43158f6c623d1.jpg",
     "email": "john@example.com",
     "days_since_contact": 12,
@@ -16,7 +16,7 @@
   },
   {
     "id": 2,
-    "name": "Sarah Ahmed",
+    "name": "Sara Islam",
     "picture": "/images/w1.jpg",
     "email": "sarah@example.com",
     "days_since_contact": 5,
@@ -31,7 +31,7 @@
   },
   {
     "id": 3,
-    "name": "Michael Lee",
+    "name": "Michael Leo",
     "picture": "/images/handsome-young-man-portrait-intense-look-eye-catching-beauty-fashionable-hair-beard-wearing-white-shirt-103253910.webp",
     "email": "michael@example.com",
     "days_since_contact": 20,
@@ -60,7 +60,7 @@
   },
   {
     "id": 5,
-    "name": "David Smith",
+    "name": "David Finandas",
     "picture": "/images/images (1).jpeg",
     "email": "david@example.com",
     "days_since_contact": 15,
@@ -74,7 +74,7 @@
   },
   {
     "id": 6,
-    "name": "Nusrat Jahan",
+    "name": "Nusrat Chowdhury",
     "picture":"/images/w3.jpg",
     "email": "nusrat@example.com",
     "days_since_contact": 8,
@@ -89,7 +89,7 @@
   },
   {
     "id": 7,
-    "name": "Rahim Uddin",
+    "name": "Raju Talukder",
     "picture": "/images/images (2).jpeg",
     "email": "rahim@example.com",
     "days_since_contact": 1,
@@ -103,7 +103,7 @@
   },
   {
     "id": 8,
-    "name": "Emily Johnson",
+    "name": "Rana Chowdhury",
     "picture": "/images/images.jpeg",
     "email": "emily@example.com",
     "days_since_contact": 18,
@@ -118,7 +118,7 @@
   },
   {
     "id": 9,
-    "name": "Tanvir Hasan",
+    "name": "Tanvir Rahman",
     "picture": "/images/images.jpeg",
     "email": "tanvir@example.com",
     "days_since_contact": 6,
@@ -133,7 +133,7 @@
   },
   {
     "id": 10,
-    "name": "Olivia Brown",
+    "name": "Lotus Rahman",
     "picture": "/images/w1.jpg",
     "email": "olivia@example.com",
     "days_since_contact": 3,

@@ -8,9 +8,7 @@ const NotFound = () => {
                 {/* Illustration or Large Text */}
                 <h1 className="text-9xl font-black text-gray-200 tracking-widest">404</h1>
 
-                <div className="bg-indigo-600 px-2 text-sm rounded rotate-12 absolute transform -translate-y-12 translate-x-20 md:translate-x-24">
-                    <span className="text-white font-medium">Page Not Found</span>
-                </div>
+             
 
                 <div className="mt-8">
                     <h2 className="text-2xl font-bold text-gray-800 md:text-3xl">

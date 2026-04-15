@@ -20,8 +20,8 @@ const ContextProvider = ({ children }) => {
             time: formattedDate
         }
         setFriendData([...friendData, newData])
-        toast.success(`${type} successful to ${data.name}`, {
-            position: "top-right",
+        toast.success(`${type} With ${data.name}`, {
+            position: "top-center",
             autoClose: 2000,
             hideProgressBar: false,
             closeOnClick: false,

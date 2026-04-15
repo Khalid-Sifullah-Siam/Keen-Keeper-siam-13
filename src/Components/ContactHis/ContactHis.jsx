@@ -10,8 +10,8 @@ const ContactHis = ({ item }) => {
         <div className=''>
             <div className='flex items-center gap-3 border border-gray-200 p-4 rounded-md shadow-2xs mb-2'>
                 {item.type === 'Call' && <Image src={'/Icons/call.png'} alt='Call' height={32} width={30}></Image>}
-                {item.type === 'Text' && <Image src={'/Icons/text.png'} alt='Call' height={32} width={30}></Image>}
-                {item.type === 'Video' && <Image src={'/Icons/video.png'} alt='Call' height={32} width={30}></Image>}
+                {item.type === 'Text' && <Image src={'/Icons/text.png'} alt='text' height={32} width={30}></Image>}
+                {item.type === 'Video' && <Image src={'/Icons/video.png'} alt='video' height={32} width={30}></Image>}
                 <div>
                     <p> <span className='font-bold text-xl text-gray-600'>{item.type} </span>with  {item.name}</p>
                     <p className='font-bold text-gray-500'> {item.time} </p>
